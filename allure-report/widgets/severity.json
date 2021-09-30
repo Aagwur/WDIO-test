@@ -1,50 +1,50 @@
 [ {
-  "uid" : "82893f37f6266085",
-  "name" : "Verify that 'No account found with that username.' error message is present on a page if user enters incorrect data",
-  "time" : {
-    "start" : 1631890838812,
-    "stop" : 1631890840130,
-    "duration" : 1318
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "922b866ed331dbd1",
-  "name" : "Verify that only 'Please enter your password.' error message is present on a page if user enters only username",
-  "time" : {
-    "start" : 1631890836161,
-    "stop" : 1631890837476,
-    "duration" : 1315
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6d2e5f16b11e63fd",
+  "uid" : "fa3da87201166096",
   "name" : "Verify that both 'Please enter username.' and 'Please enter your password.' error messages are present on a page if user enters nothing",
   "time" : {
-    "start" : 1631890837478,
-    "stop" : 1631890838810,
-    "duration" : 1332
+    "start" : 1633011553085,
+    "stop" : 1633011554418,
+    "duration" : 1333
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "7bf3867a759a2526",
+  "uid" : "348c9732c0ec8b67",
+  "name" : "Verify that only 'Please enter your password.' error message is present on a page if user enters only username",
+  "time" : {
+    "start" : 1633011551736,
+    "stop" : 1633011553083,
+    "duration" : 1347
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "28fde089a8a7bd12",
   "name" : "Verify that all elements are present on the page",
   "time" : {
-    "start" : 1631890833726,
-    "stop" : 1631890834749,
-    "duration" : 1023
+    "start" : 1633011548860,
+    "stop" : 1633011550322,
+    "duration" : 1462
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "a4a5dfbb99352e94",
+  "uid" : "ad17434b13a76df7",
   "name" : "Verify that only 'Please enter username.' error message is present on a page if user enters only password",
   "time" : {
-    "start" : 1631890834751,
-    "stop" : 1631890836160,
-    "duration" : 1409
+    "start" : 1633011550326,
+    "stop" : 1633011551733,
+    "duration" : 1407
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "22db57b921b54e34",
+  "name" : "Verify that 'No account found with that username.' error message is present on a page if user enters incorrect data",
+  "time" : {
+    "start" : 1633011554420,
+    "stop" : 1633011555734,
+    "duration" : 1314
   },
   "status" : "passed",
   "severity" : "normal"

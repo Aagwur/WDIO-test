@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\".//span[normalize-space() = \"Please enter username.\"]\"}\n  (Session info: chrome=94.0.4606.61)",
+  "stacktrace": "Backtrace:\n\tOrdinal0 [0x003CA2D3+2663123]\n\tOrdinal0 [0x0035A491+2204817]\n\tOrdinal0 [0x00242118+1057048]\n\tOrdinal0 [0x0026CA6B+1231467]\n\tOrdinal0 [0x00296A02+1403394]\n\tOrdinal0 [0x00285A0A+1333770]\n\tOrdinal0 [0x00294D8F+1396111]\n\tOrdinal0 [0x0028589B+1333403]\n\tOrdinal0 [0x00261F74+1187700]\n\tOrdinal0 [0x00262DC9+1191369]\n\tGetHandleVerifier [0x005630D6+1610054]\n\tGetHandleVerifier [0x0060B53B+2299307]\n\tGetHandleVerifier [0x00458DA9+519705]\n\tGetHandleVerifier [0x00457759+513993]\n\tOrdinal0 [0x0036112D+2232621]\n\tOrdinal0 [0x003655F8+2250232]\n\tOrdinal0 [0x00365732+2250546]\n\tOrdinal0 [0x0036E591+2286993]\n\tBaseThreadInitThunk [0x75F0FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77907A9E+286]\n\tRtlGetAppContainerNamedObjectPath [0x77907A6E+238]\n"
+}
